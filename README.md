@@ -1,2 +1,2 @@
 # DeepMT-ND
-The proposed databases in our paper entitled "Deep Multi-task Learning for Nephropathy Diagnosis on Immunofluorescence Images". The data will be released soon.
+The proposed databases in our paper entitled "A large-scale dataset and a deep sequential neural network for IgA nephropathy histopathology identification and quantification".
