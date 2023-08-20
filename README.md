@@ -15,11 +15,11 @@ pip install -r requirements.txt
 
 
 ## 2. Dataset
-The dataset can be downloaded from [Dropbox](https://www.dropbox.com/work/Shared/fyb/IgAN_WSI). Note we release the test set mentioned in the manuscript during the reviewing process. The training dataset will be available when the reviewing process is finished. If you are keen to download the whole dataset recently, you can send emails to pansai301@126.com.
+The dataset can be downloaded from [Dropbox](https://www.dropbox.com/sh/09yksvkixkidm0d/AAAnn9nfDRJkzxaKah16X2HCa?dl=0). Note we release the test set mentioned in the manuscript during the reviewing process. The training dataset will be available when the reviewing process is finished. If you are keen to download the whole dataset recently, you can send emails to pansai301@126.com.
  The email should contain your institution, your grade/occupation and the purpose of pursuing this dataset. The act of spreading our dataset freely on the Internet is forbidden.
 
 ## 3. Model
-You can Download the pytorch model from [Dropbox](https://www.dropbox.com/work/Shared/fyb/IgAN_WSI) and put the .pth files in the repository folder.
+You can Download the pytorch model from [Dropbox](https://www.dropbox.com/sh/09yksvkixkidm0d/AAAnn9nfDRJkzxaKah16X2HCa?dl=0) and put the .pth files in the repository folder.
 ## 4. Test
 1. Clone this repository:
     ```
