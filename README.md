@@ -4,7 +4,7 @@
 ![framework](./framework.png)
 
 ## 1. Environment
-    Python 3.8
+    Python 3.10
     PyTorch = 2.0
     opencv-python
 
